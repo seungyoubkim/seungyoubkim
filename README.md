@@ -1,10 +1,4 @@
-### 👇 my dragons
-
-<a href="https://dragcave.net/view/MV5DN"><img src="https://dragcave.net/image/MV5DN.gif" style="border-width:0" alt="Adopt one today!"/></a>
-<a href="https://dragcave.net/view/PdHwq"><img src="https://dragcave.net/image/PdHwq.gif" style="border-width:0" alt="Adopt one today!"/></a>
-<a href="https://dragcave.net/view/HOine"><img src="https://dragcave.net/image/HOine.gif" style="border-width:0" alt="Adopt one today!"/></a>
-<a href="https://dragcave.net/view/KCCv1"><img src="https://dragcave.net/image/KCCv1.gif" style="border-width:0" alt="Adopt one today!"/></a>
-<a href="https://dragcave.net/view/tUHJ0"><img src="https://dragcave.net/image/tUHJ0.gif" style="border-width:0" alt="Adopt one today!"/></a>
+😄
 
 <!--
 **seungyoubkim/seungyoubkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
